@@ -4,7 +4,7 @@ import pygame
 import math
 from game import Game      
 pygame.init()
-
+      
 #charger l'image
 pygame.display.set_caption("Comet Fall Game")
 (largeur, hauteur) = (1080, 700)
